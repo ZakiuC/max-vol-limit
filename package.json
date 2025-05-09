@@ -1,0 +1,11 @@
+{
+    "name": "volume-limit",
+    "main": "main.js",
+    "devDependencies": {
+        "@types/node": "^22.15.15",
+        "@types/nw.js": "^0.92.0"
+    },
+    "dependencies": {
+        "loudness": "^0.4.2"
+    }
+}
